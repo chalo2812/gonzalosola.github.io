@@ -5,6 +5,8 @@ body {
 .h4-title {
   text-align: center;
   color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .background-header{
@@ -17,4 +19,5 @@ body {
 
 .text-h6 {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
+  margin-left: 25px;
 }
