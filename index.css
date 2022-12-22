@@ -9,15 +9,17 @@ body {
   margin-bottom: 10px;
 }
 
-.background-header{
+.background-header {
   position: fixed;
   top: 0;
   right: 0;
   left: 0;
-  background-color: #23A455;
+  background-color: #23a455;
 }
 
 .text-h6 {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
   margin-left: 25px;
+  text-align: center;
+  color: darkgreen;
 }
