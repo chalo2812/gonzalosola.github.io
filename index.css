@@ -23,3 +23,8 @@ body {
   text-align: center;
   color: darkgreen;
 }
+
+.img-center {
+  max-width: 100%;
+  height: auto;
+}
