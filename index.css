@@ -20,7 +20,8 @@ body {
 
 .text-h6 {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
-  margin-left: 25px;
+  margin-left: 50px;
+  margin-right: 50px;
   text-align: center;
   color: darkgreen;
 }
